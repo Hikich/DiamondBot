@@ -19,7 +19,7 @@
     "moment-duration-format": "^2.3.2",
     "mongoose": "^5.9.20",
     "ms": "^2.1.2",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^3.1.1",
     "number-to-words": "^1.2.4",
     "parse-ms": "^2.1.0",
     "quick.hook": "^1.5.1",
