@@ -15,7 +15,7 @@
     "fs": "0.0.1-security",
     "got": "^11.3.0",
     "imgur": "^0.3.1",
-    "moment": "^2.27.0",
+    "moment": "^2.29.4",
     "moment-duration-format": "^2.3.2",
     "mongoose": "^5.9.20",
     "ms": "^2.1.2",
